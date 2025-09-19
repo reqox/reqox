@@ -4,7 +4,6 @@
 ---
 
 - **Город:** Сочи
-- **Email:** [anovikova999666@gmail.com](mailto:anovikova999666@gmail.com)
 - **Telegram:** [t.me/mqnjj](https://t.me/mqnjj)
 
 ---
