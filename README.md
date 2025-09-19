@@ -51,6 +51,11 @@
 
 **Ссылка на сайт:** [https://daoits.com](https://daoits.com)
 
+### Sochichef.ru
+**Описание:** Одностраничный сайт, разработанный для моего колледжа. 
+**Технологии:** React, Typescript, Scss, Vite
+**Ссылка на сайт:** [https://sochichef.ru](https://sochichef.ru)
+
 ---
 
 ## Цели и интересы
